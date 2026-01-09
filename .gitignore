@@ -1,0 +1,12 @@
+# Xcode
+.DS_Store
+DerivedData/
+.build/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+# User-specific
+*.xcuserdatad/
+*.idea/
+
